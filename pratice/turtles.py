@@ -23,14 +23,14 @@ import turtle
 # end_fill()
 
 
-screen = turtle.Screen()
-turtle.bgcolor('black')
-color = ['forestgreen','crimson']
-screen.setworldcoordinates(-1000,-1000,1000,1000)
-turtle.speed(0)
-turtle.hideturtle()
+# screen = turtle.Screen()
+# turtle.bgcolor('black')
+# color = ['forestgreen','crimson']
+# screen.setworldcoordinates(-1000,-1000,1000,1000)
+# turtle.speed(0)
+# turtle.hideturtle()
 # for i in range(20,800,5):
-    # print(i)
+#     print(i)
 
 
 

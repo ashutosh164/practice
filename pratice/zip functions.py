@@ -2,12 +2,13 @@ name = ['ashu', 'jilu', 'silu', 'bulu', 'deepak']
 age = [24, 22, 21, 29, 6]
 
 
-# for i in range(len(name)):
-#     print(f'Name: {name[i]}, Age: {age[i]}')
+for i in range(len(name)):
+    print(f'Name: {name[i]}, Age: {age[i]}')
 
+print('-------------------------------')
+print(list(zip(name, age)))
 
-# print(list(zip(name, age)))
-
+print('__________________________')
 for i, j in zip(name, age):
     print(f'Name: {i}, Age: {j}')
 
